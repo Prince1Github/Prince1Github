@@ -1,4 +1,4 @@
-# Prince1Githhub
+# Prince1Github
 
 # Hey there, I’m Prince 👋
 
