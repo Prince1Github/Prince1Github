@@ -14,10 +14,8 @@ I'm a Computer Science undergrad who loves building cool, meaningful things—fr
 
 ---
 
-### 🛠️ Tech Stack
-
 <details>
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ Tech Stack</h2></summary>
 
   <!-- Inspired by badge styling, all links/logos customized manually -->
 
@@ -52,12 +50,13 @@ I'm a Computer Science undergrad who loves building cool, meaningful things—fr
     <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white" />
   </p>
 
-  <h3>🗄️ Databases & Hosting</h3>
+  <h3>🗄️ Databases & Cloud Hosting</h3>
   <p>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white" />
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" />
     <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" />
+    <img alt="Vercel" src="https://img.shields.io/badge/VERCEL-000000.svg?logo=vercel&logoColor=white" />
   </p>
 
   <h3>🧪 Tools, IDEs & Platforms</h3>
@@ -70,48 +69,20 @@ I'm a Computer Science undergrad who loves building cool, meaningful things—fr
     <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?logo=gnubash&logoColor=white" />
     <img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?logo=microsoft-excel&logoColor=white" />
   </p>
+
+  
+  <h3>🎨 Creative & Visual Tools</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
+    <img alt="Premiere Pro" src="https://img.shields.io/badge/PREMIERE%20PRO-9999FF.svg?logo=Adobe-Premiere-Pro&logoColor=white" />
+    <img alt="After Effects" src="https://img.shields.io/badge/AFTER%20EFFECTS-9999FF.svg?logo=Adobe-After-Effects&logoColor=white" />
+    <img alt="Audacity" src="https://img.shields.io/badge/AUDACITY-0000CC.svg?logo=audacity&logoColor=white" />
+    <img alt="Figma" src="https://img.shields.io/badge/FIGMA-F24E1E.svg?logo=figma&logoColor=white" />
+    <img alt="Canva" src="https://img.shields.io/badge/CANVA-00C4CC.svg?logo=canva&logoColor=white" />
+    <img alt="Photopea" src="https://img.shields.io/badge/PHOTOPEA-18A497.svg?logo=photopea&logoColor=white" />
+    <img alt="OBS Studio" src="https://img.shields.io/badge/OBS%20STUDIO-302E31.svg?logo=obs-studio&logoColor=white" />
+  </p>
 </details>
-
-
-**Languages**  
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)  
-![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)  
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql)  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-
-**Frameworks / Libraries**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)  
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)  
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)
-
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)  
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel)
-
-**Databases**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite)
 
 ---
 
@@ -136,23 +107,28 @@ I'm a Computer Science undergrad who loves building cool, meaningful things—fr
 
 ### 📊 GitHub Stats
 
+  <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Prince1Github&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /> </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-Lenka&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince-Lenka&layout=compact&theme=radical" width="48%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Prince1Github&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince1Github&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
 </p>
+
 
 ---
 
 ### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)  
-[![Twitter](https://img.shields.io/badge/-X-black?style=flat&logo=twitter)](https://twitter.com/YOUR-HANDLE)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=vercel)](https://your-portfolio.com)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:your@email.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/prince-lenka/"><img width="32px" alt="Instagram" title="Instagram" src=""/></a>
+  <a href="https://www.linkedin.com/in/prince-lenka/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/princeL505"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/742039657738666083" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 ---
 
 > “Stay curious, build relentlessly, and always keep that terminal themed.”
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-USERNAME)  
-[![Twitter](https://img.shields.io/badge/X-black?style=flat&logo=twitter)](https://twitter.com/YOUR-USERNAME)  
-[![Website](https://img.shields.io/badge/Portfolio-grey?style=flat&logo=vercel)](https://yourdomain.com)
