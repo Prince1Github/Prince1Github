@@ -1,5 +1,3 @@
-# Prince1Github
-
 # Hey there, I’m Prince 👋
 
 ### 🚀 Aspiring Product Manager | Full-Stack Developer | Security Enthusiast
